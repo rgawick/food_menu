@@ -1,0 +1,33 @@
+ul{ list-style:none;
+
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.divheader{
+  border: 1px;
+  margin-left: 105px;
+  font-size: 1.5rem;
+  word-wrap: break-word;
+
+}
+button {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 7px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#menuList {
+  display: flex;
+  flex-direction: column;
+}
+p{
+  width: 320px;
+  word-wrap: break-word;
+}
